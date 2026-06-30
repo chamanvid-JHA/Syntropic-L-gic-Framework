@@ -1,4 +1,4 @@
-# Syntropic-L-gic-Framework
+# Syntropic-Logic-Framework
 Whitepaper y bases matemáticas de SACI
 
 ## Executive Summary
